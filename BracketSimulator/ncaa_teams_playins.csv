@@ -1,0 +1,69 @@
+Team,Pyth,AdjO,AdjD,AdjT,Region,Seed
+Arizona,0.954,113.1,86.9,64.4,West,1
+Louisville,0.9515,117.4,90.6,68.9,Midwest,4
+Florida,0.9476,115.8,90,63.2,South,1
+Virginia,0.9418,114,89.5,61,East,1
+Wichita St.,0.9399,117.7,92.7,65,Midwest,1
+Villanova,0.9196,115.8,93.7,67.1,East,2
+Duke,0.9126,124.4,101.4,66,Midwest,3
+Creighton,0.9121,125.7,102.5,65.1,West,3
+Kansas,0.9108,118.6,96.9,68.2,South,2
+Michigan St.,0.9038,117.3,96.5,65.6,East,4
+Wisconsin,0.9,119.5,98.7,64.4,West,2
+VCU,0.8972,107.9,89.4,70.6,South,5
+Tennessee,0.8968,113.5,94.1,63.3,Midwest,11
+Michigan,0.8935,122.3,101.6,62.8,Midwest,2
+Syracuse,0.8925,113.2,94.2,61.3,South,3
+UCLA,0.8885,116.8,97.5,70.1,South,4
+Kentucky,0.8844,114.9,96.3,66,Midwest,8
+Pittsburgh,0.8841,115.1,96.5,64,South,9
+Ohio St.,0.8828,107.1,89.9,65.4,South,6
+Gonzaga,0.8804,111.5,93.7,66.1,West,8
+San Diego St.,0.8787,108,90.9,64.1,West,4
+Oklahoma St.,0.878,114,96,68.5,West,9
+Iowa St.,0.8758,115.9,97.8,71.7,East,3
+Cincinnati,0.8701,107.9,91.4,63.2,East,5
+Connecticut,0.8688,109.5,92.9,65,East,7
+North Carolina,0.8645,111,94.5,70.9,East,6
+Iowa ,0.8609,120.1,102.5,70.9,Midwest,11
+New Mexico,0.857,112.7,96.5,66.1,South,7
+Oklahoma,0.8538,116.9,100.3,71.3,West,5
+Oregon,0.8524,117.1,100.6,68.8,West,7
+Baylor,0.8492,118.6,102,62.6,West,6
+Harvard,0.8402,111.2,96.3,65.1,East,12
+Saint Louis,0.8287,104.6,91.2,67.2,Midwest,5
+Stanford,0.8181,112.5,98.7,66.5,South,10
+Texas,0.8137,109.5,96.3,68.2,Midwest,7
+Providence,0.8117,114.3,100.6,64.9,East,11
+Xavier,0.8074,112.8,99.6,65.8,Midwest,12
+Kansas St.,0.8041,108,95.5,65.4,Midwest,9
+Memphis,0.802,110.4,97.8,69.4,East,8
+George Washington,0.8017,109.4,96.9,67.3,East,9
+Arizona St.,0.8009,108.3,96,69.3,Midwest,10
+Nebraska,0.7977,108.2,96,66.2,West,11
+Saint Joseph's,0.7935,110.3,98.1,65.7,East,10
+BYU,0.7919,113.7,101.2,72.2,West,10
+Massachusetts,0.786,108.4,96.8,71.6,Midwest,6
+Dayton,0.7835,113.4,101.4,65.2,South,11
+North Dakota St.,0.7713,114.7,103.2,64.2,West,12
+Stephen F. Austin,0.7642,111.6,100.8,63.6,South,12
+Colorado,0.7502,105.9,96.2,66.4,South,8
+North Carolina St.,0.7462,113.6,103.4,66.1,Midwest,12
+Manhattan,0.7433,106,96.7,69.5,Midwest,13
+Tulsa,0.743,105.3,96,68.5,South,13
+New Mexico St.,0.7325,112.1,102.7,66.5,West,13
+North Carolina Central,0.7188,107.5,99,64.2,East,14
+American,0.6608,103.1,97.3,61.4,West,15
+Mercer,0.6579,107.5,101.6,65,Midwest,14
+Delaware,0.6366,110.9,105.6,72.1,East,13
+Western Michigan,0.6183,106.7,102.3,66.9,South,14
+Louisiana Lafayette,0.6106,109.9,105.7,69.9,West,14
+Eastern Kentucky,0.5776,111.3,108.3,66.1,South,15
+Milwaukee,0.4891,104.5,104.9,67.5,East,15
+Weber St.,0.4782,105.6,106.4,64.4,West,16
+Cal Poly,0.4697,103.2,104.3,60.2,Midwest,16
+Albany,0.4581,101.9,103.4,63.2,South,16
+Wofford,0.4482,100.9,102.8,62,Midwest,15
+Mount St. Mary's,0.4391,108.3,110.7,70.1,South,16
+Coastal Carolina,0.3552,97.3,102.5,67.2,East,16
+Texas Southern,0.3474,106.2,112.1,67.4,Midwest,16
